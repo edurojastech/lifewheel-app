@@ -6,6 +6,9 @@ Aplicação web que ajuda a refletir sobre o equilíbrio entre as principais ár
 
 > Projeto de estudo, em desenvolvimento.
 
+<img width="1196" height="923" alt="image" src="https://github.com/user-attachments/assets/d0faa18d-7f5a-44c5-a706-2d85ae501a98" />
+
+
 ## Funcionalidades
 
 - Questionário com afirmações por área da vida, avaliadas com notas de 0 a 10
